@@ -13,7 +13,5 @@ A real-time **YOLO-based Object Detection System** that detects **people and car
 ✅ Supports **video input (MP4)** or camera feed  
 ✅ Clear and responsive OpenCV GUI  
 
----
 
-## 📁 Project Structure
 
